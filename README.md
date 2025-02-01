@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Name : IGHALO IREZUA BRIGHT 
+- Matric Number : U23PE1007
 
 ## Getting Started
 
